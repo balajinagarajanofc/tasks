@@ -1,8 +1,6 @@
 # tasks
 
-<<<<<<< HEAD
-1.Comparing two JSON have the same properties
-=======
+<<<<<<< TASKS
 
 1.Comparing two JSON have the same properties - <https://github.com/balajinagarajanofc/tasks/blob/main/task%201/>
 >>>>>>> 49064490d8cbbfccd4643a42464c515b435b60d3
